@@ -1,2 +1,2 @@
-# Blinkit-Analysis
-Analyse Blinkit Data 
+# Supermarket Dashboard Analysis
+Analyse Supermarket Data 
